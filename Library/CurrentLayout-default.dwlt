@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 1521.6
     height: 776
   m_ShowMode: 4
-  m_Title: Hierarchy
+  m_Title: Inspector
   m_RootView: {fileID: 8}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -47,7 +47,7 @@ MonoBehaviour:
   m_MinSize: {x: 811, y: 271}
   m_MaxSize: {x: 22006, y: 10021}
   vertical: 1
-  controlID: 267
+  controlID: 136
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -126,7 +126,7 @@ MonoBehaviour:
   m_MinSize: {x: 811, y: 271}
   m_MaxSize: {x: 22006, y: 10021}
   vertical: 0
-  controlID: 268
+  controlID: 137
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -281,7 +281,7 @@ MonoBehaviour:
   m_MinSize: {x: 101, y: 242}
   m_MaxSize: {x: 4001, y: 8042}
   vertical: 1
-  controlID: 135
+  controlID: 138
 --- !u!114 &12
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -347,7 +347,7 @@ MonoBehaviour:
   m_Position:
     m_Target: {x: 0.45851752, y: -0.58813256, z: -0.8004369}
     speed: 2
-    m_Value: {x: 0.54168665, y: -0.48838487, z: -0.7897161}
+    m_Value: {x: 0.45851752, y: -0.58813256, z: -0.8004369}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -400,7 +400,7 @@ MonoBehaviour:
   m_Size:
     m_Target: 2.8439937
     speed: 2
-    m_Value: 2.9780037
+    m_Value: 2.8439937
   m_Ortho:
     m_Target: 1
     speed: 2
@@ -882,14 +882,14 @@ MonoBehaviour:
   m_StartGridSize: 64
   m_LastFolders: []
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: D:\after_the_end\FarmSim\After the End
+  m_LastProjectPath: D:\after_the_end\FarmSim
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 1e580000
     m_LastClickedID: 22558
-    m_ExpandedIDs: 00000000aa45000076550000785500007a5500007c5500007e5500008055000082550000845500008655000088550000
+    m_ExpandedIDs: 00000000b24500007455000076550000785500007a5500007c5500007e55000080550000825500008455000086550000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -917,7 +917,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: ffffffff00000000aa45000076550000785500007a5500007c5500007e5500008055000082550000845500008655000088550000
+    m_ExpandedIDs: ffffffff00000000b24500007455000076550000785500007a5500007c5500007e55000080550000825500008455000086550000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1038,9 +1038,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 
-      m_LastClickedID: 0
-      m_ExpandedIDs: 62fbffff
+      m_SelectedIDs: 16f8ffff
+      m_LastClickedID: -2026
+      m_ExpandedIDs: 62fbffffb244000038450000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
